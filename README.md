@@ -20,9 +20,6 @@ The Netflix_Titles csv datset is from Kaggle, created by the user: **SHIVAM BANS
 * Out of those fields, these were the primary focus for the EDA's objectives: _type_, _date_added_, _rating_, and _duration_.
 * Pre-cleaning was done on Dbeaver using SQLite to handle empty values, duplicate values, and inconsistent fields. The pre-cleaning process can be found inside the EDA. 
 
-## Approach 
-
-
 ## Insights
 * No tv-show content was released between the years 2009 and 2012, confirming that Netflix's primary focus is on movie production and acquisitions as show in figure 1 titled, "Netflix Total Content Distribution".
 * There was a decline from the year 2019 to 2021 in movies and tv-show production/releases which can be due to external factors such as the COVID-19 pandemic.
@@ -33,8 +30,6 @@ The Netflix_Titles csv datset is from Kaggle, created by the user: **SHIVAM BANS
 ## Preview
 <img src="https://github.com/soyshlee/Netflix_EDA/blob/57600dff489d8f02a0ef720fe6f5a0d00fe94e9c/graphs/Figure%201.png" width="700">
 <img src="https://github.com/soyshlee/Netflix_EDA/blob/57600dff489d8f02a0ef720fe6f5a0d00fe94e9c/graphs/Figure%204.png" width="700">
-
-## Conclusion
 
 # Useful Links
 The dataset was retrieved from [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows).
