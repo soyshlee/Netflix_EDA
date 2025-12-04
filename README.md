@@ -31,6 +31,12 @@ The Netflix_Titles csv datset is from Kaggle, created by the user: **SHIVAM BANS
 <img src="https://github.com/soyshlee/Netflix_EDA/blob/57600dff489d8f02a0ef720fe6f5a0d00fe94e9c/graphs/Figure%201.png" width="700">
 <img src="https://github.com/soyshlee/Netflix_EDA/blob/57600dff489d8f02a0ef720fe6f5a0d00fe94e9c/graphs/Figure%204.png" width="700">
 
+## Conclusion
+The trends this EDA uncovered, provides a starting point for deeper reasearch into timing, genre patterns, and target audience strategies. Below you will find two possible future endevours to expand on this analysis:
+- One pathway of expansion, can be to examine how regional preferences can influence Netflix's decision making around content acquisition/production.
+  
+- Another direction, would be to study the gap between a title's original release date and the date it was added to Netflix, which could reveal any patterns in important timing decisions. 
+
 # Useful Links
 The dataset was retrieved from [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows).
 
